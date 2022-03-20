@@ -93,28 +93,28 @@ public class NomesanasVieta : MonoBehaviour, IDropHandler {
 					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.bussKoord;
 					break;
 				case "b2":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.b2Koord;
+					objektuSkripts.b2.GetComponent<RectTransform> ().localPosition = objektuSkripts.b2Koord;
 					break;
 				case "Cements":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.cementaKoord;
+					objektuSkripts.cementaMasina.GetComponent<RectTransform> ().localPosition = objektuSkripts.cementaKoord;
 					break;
 				case "e46":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.e46Koord;
+					objektuSkripts.e46.GetComponent<RectTransform> ().localPosition = objektuSkripts.e46Koord;
 					break;
 				case "Eskavators":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.eskavatorsKoord;
+					objektuSkripts.eskavators.GetComponent<RectTransform> ().localPosition = objektuSkripts.eskavatorsKoord;
 					break;
 				case "Policija":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.policijaKoord;
+					objektuSkripts.policija.GetComponent<RectTransform> ().localPosition = objektuSkripts.policijaKoord;
 					break;
 				case "Traktors1":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.traktors1Koord;
+					objektuSkripts.traktors1.GetComponent<RectTransform> ().localPosition = objektuSkripts.traktors1Koord;
 					break;
 				case "Traktors5":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.traktors5Koord;
+					objektuSkripts.traktors5.GetComponent<RectTransform> ().localPosition = objektuSkripts.traktors5Koord;
 					break;
 				case "Ugunsdzeseji":
-					objektuSkripts.autobuss.GetComponent<RectTransform> ().localPosition = objektuSkripts.ugunsKoord;
+					objektuSkripts.ugunszdeseji.GetComponent<RectTransform> ().localPosition = objektuSkripts.ugunsKoord;
 					break;
 
 				default:
