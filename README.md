@@ -8,5 +8,5 @@ Unity 2D spele, kas nodrosina objektu vilkšanu, nolikšanu
 - [x] Objektu rotācijas iespēju integrēšana
 - [x] Objektu izmēra maiņas iespēju integrēšana
 - [x] Ieviesta jauna aina un izvēlne
-- [] Laika atskaites integrēšana
-- [] Punktu sistēmas ieviešana
+- [ ] Laika atskaites integrēšana
+- [ ] Punktu sistēmas ieviešana
